@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Ementa Etnomatemática"
-tags: #ementasparafuturospossíveis
+tags: ementas
 ---
 
 # #EmentaEtnomatemática
