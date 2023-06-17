@@ -1,9 +1,9 @@
 permalink: /:year:month:day/:title
-url: #Your url here
-baseurl: /project
+url: https://refuncionaware.github.io
+baseurl: /
 
 # variables
-name: Your Site Name
+name: Refuncionaware
 description: Your description here
 google_verification: null
 
