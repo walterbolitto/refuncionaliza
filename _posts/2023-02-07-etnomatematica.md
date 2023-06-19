@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Ementa Etnomatemática"
+title: "Etnomatemática"
 tags: ementas
 ---
 
