@@ -19,7 +19,7 @@ Com o objetivo de superar o projeto político de grupos dedicados ao fracasso es
 
 Todo o conteúdo a ser ensinado é apresentado de forma textual e audiovisual nos links apresentados, compostos por pesquisas etnomatemáticas de diferentes especialistas. A leitura completa ou parcial dos trabalhos possibilita um aprofundamento nos conteúdos, de modo que a ementa articula estes conhecimentos etnomatemáticos e costura uma trajetória a ser seguida na disciplina. A ementa é baseada nos fundamentos e nas práticas da etnomatemática para o Ensino Médio, a partir da perspectiva de uma educação antirracista, e busca caminhos para a sala de aula em futuros possíveis através do diálogo com educadores, propondo uma apropriação dos conteúdos e dos signos culturais por grupos historicamente excluídos do conhecimento.
 
-Para relacionar os conhecimentos das atividades com os conteúdos tradicionalmente trabalhados na disciplina de Matemática, utilizaremos o [caderno de cursinho pré-vestibular da UNESP](https://refuncionaware.github.io/assets/arquivos/ementas/caderno_matematica.pdf). Por fim, slides serão disponibilizados nas atividades 1, 3 e 4 que podem colaborar com o trabalho do educador na comunicação com os estudantes. As imagens presentes nos slides também serão compartilhadas individualmente para que educadores interessados possam elaborar e remixar slides.
+Para relacionar os conhecimentos das atividades com os conteúdos tradicionalmente trabalhados na disciplina de Matemática, utilizaremos o [caderno de cursinho pré-vestibular da UNESP](https://refuncionaware.github.io/assets/ementas/etnomatematica/caderno_matematica.pdf). Por fim, slides serão disponibilizados nas atividades 1, 3 e 4 que podem colaborar com o trabalho do educador na comunicação com os estudantes. As imagens presentes nos slides também serão compartilhadas individualmente para que educadores interessados possam elaborar e remixar slides.
 
 ## Etnomatemática como Tema Gerador
 
@@ -39,9 +39,9 @@ Após o reconhecimento da importância da técnica na nossa sociedade e da sua c
 
 Por fim, contextualize as técnicas e ferramentas utilizadas por diferentes grupos étnicos, alguns exemplos são: (1) o osso de Lebombo e do osso de Ishango, como tecnologias encontrada na África de 20.000 a.C., e (2) o suanpan (中式算盤), com registros iniciais no século I na China.
 
-[Slides em PDF](https://refuncionaware.github.io/assets/arquivos/ementas/Atividade%201.pdf)
+[Slides em PDF](https://refuncionaware.github.io/assets/ementas/etnomatematica/Atividade%201.pdf)
 
-[Download das imagens dos slides](https://refuncionaware.github.io/assets/arquivos/ementas/Atividade%201.zip)
+[Download das imagens dos slides](https://refuncionaware.github.io/assets/ementas/etnomatematica/Atividade%201.zip)
 
 [SANTOS, Carla. Os números primos de Ishango. **Revista Brasileira Multidisciplinar**, v. 22, n. 2, p. 120-130, 2019.](https://core.ac.uk/download/pdf/268244462.pdf)
 
@@ -66,9 +66,9 @@ Realize comparações e exercícios a partir da reprodução de formas de mediç
 Um ponto de partida é a apresentação das imagens dos slides que estão relacionadas a jogos digitais e físicos em diferentes momentos históricos com estruturas distintas. Apesar de sua classificação não ser o objetivo principal da aprendizagem, é possível compreender diferentes jogos a partir da proposta de Caillois, representados por Agôn (jogo que envolve uma forma de competição de habilidades físicas ou cognitivas), Alea (jogo que envolve fatores aleatórios que requerem "sorte"), Mimicry (jogo de interpretação que exige esforços imaginativos) e Illinx (jogo que envolve fortes emoções ou perturbações como vertigens). Cada jogo, portanto, terá uma ou mais classificações em sua estrutura. Um aprofundamento pode ser obtido no livro "Os jogos e os homens: a máscara e a vertigem" de Roger Caillois, e também é possível obter um maior entendimento e exemplos através da resenha de [Lara e Assis Pimentel](http://www.rbce.cbce.org.br/index.php/RBCE/article/viewFile/101/110).
 Em um segundo momento, faça com a turma a confecção e uma sessão de jogos que abordem a etnomatemática, como o Tsoro Yematatu, Shisima e a Mancala. É importante destacar a importância de não generalizar aspectos culturais de um povo africano com outros povos que vivem no mesmo continente, pois existe uma grande diversidade de culturas e contextos no vasto território do continente africano. Depois da sessão de jogos, promova um debate e um aprofundamento sobre os conhecimentos matemáticos presentes nos jogos apresentados. É possível relacionar a atividade com conteúdos de Noções de Probabilidade e Permutações, conforme apresentado a partir da página 132 do caderno de cursinho pré-vestibular da UNESP.
 
-[Slides em PDF](https://refuncionaware.github.io/assets/arquivos/ementas/Atividade%203.pdf)
+[Slides em PDF](https://refuncionaware.github.io/assets/ementas/etnomatematica/Atividade%203.pdf)
 
-[Download das imagens dos slides](https://refuncionaware.github.io/assets/arquivos/ementas/Atividade%203.zip)
+[Download das imagens dos slides](https://refuncionaware.github.io/assets/ementas/etnomatematica/Atividade%203.zip)
 
 [SANTOS, Eliane Costa. Simbiose entre Etnomatemática e a cultura Africana: Jogo Mancala Awelé em sala de aula: MANCALA AWELÉ EM SALA DE AULA. Com a Palavra, o Professor, v. 2, n. 3, p. 88-99, 2017.](http://revista.geem.mat.br/index.php/cpp/article/view/170)
 
@@ -90,9 +90,9 @@ As diferentes abordagens da criação de tranças afro estão relacionadas com o
 
 Professor, você pode mapear o calendário de atividades da escola e avaliar se há estudantes que fazem tranças na sala de aula. Esse levantamento possibilita uma contextualização inicial da prática de criação de tranças e sua relação com conceitos matemáticos, fazendo uso de imagens que exemplifiquem. Em seguida, pode-se realizar uma oficina na sala de aula ou em algum evento da escola, no qual mães ou estudantes dispostas apresentarão o ofício da trama de trançados, aproximando-se dos conceitos matemáticos apresentados.
 
-[Slides em PDF](https://refuncionaware.github.io/assets/arquivos/ementas/Atividade%204-1.pdf)
+[Slides em PDF](https://refuncionaware.github.io/assets/ementas/etnomatematica/Atividade%204.pdf)
 
-[Download das imagens dos slides](https://refuncionaware.github.io/assets/arquivos/ementas/Atividade%204.zip)
+[Download das imagens dos slides](https://refuncionaware.github.io/assets/ementas/etnomatematica/Atividade%204.zip)
 
 [SANTOS, Luane Bento dos. Para além da estética: uma abordagem etnomatemática para a cultura de trançar cabelos nos grupos afro-brasileiros. Dissertação de Mestrado em Relações Étnico-raciais. Centro Federal de Educação e Tecnologia Celso Suckson da Fonseca, Rio de Janeiro, 2013.
 ](https://dippg.cefet-rj.br/pprer/attachments/article/81/8_Luane%20Bento%20dos%20Santos.pdf)
@@ -112,3 +112,6 @@ Professor, você pode mapear o calendário de atividades da escola e avaliar se 
 [Canal do Youtube VEm Brasil - EtnoMatemaTicas Brasis](https://www.youtube.com/@VEmBrasilEtnoMatemaTicasBrasis/)
 
 [TAHAN, Malba. O homem que calculava. Rio de Janeiro: Record, 1968](https://www.revistaartereal.com.br/wp-content/uploads/2014/02/O-HOMEM-QUE-CALCULAVA-Malba-Tahan.pdf)
+
+Última edição: 22/06/2023
+Por Walter Bolitto Carvalho
