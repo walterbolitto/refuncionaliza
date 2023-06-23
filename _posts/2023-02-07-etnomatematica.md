@@ -3,8 +3,7 @@ layout: default
 title: "Etnomatemática"
 tags: ementas
 ---
-### #Ementas para futuros virtuais
-
+## #Ementas para futuros virtuais
 # #EmentaEtnomatemática
 
 ## Contexto
