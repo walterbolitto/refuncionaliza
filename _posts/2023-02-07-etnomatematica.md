@@ -3,7 +3,7 @@ layout: default
 title: "Etnomatemática"
 tags: ementas
 ---
-## #Ementas para futuros virtuais
+### #Ementas para futuros virtuais
 # #EmentaEtnomatemática
 
 ## Contexto
@@ -113,4 +113,5 @@ Professor, você pode mapear o calendário de atividades da escola e avaliar se 
 [TAHAN, Malba. O homem que calculava. Rio de Janeiro: Record, 1968](https://www.revistaartereal.com.br/wp-content/uploads/2014/02/O-HOMEM-QUE-CALCULAVA-Malba-Tahan.pdf)
 
 Última edição: 22/06/2023
+
 Por Walter Bolitto Carvalho
