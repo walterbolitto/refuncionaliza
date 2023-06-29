@@ -112,6 +112,6 @@ Professor, você pode mapear o calendário de atividades da escola e avaliar se 
 
 [TAHAN, Malba. O homem que calculava. Rio de Janeiro: Record, 1968](https://www.revistaartereal.com.br/wp-content/uploads/2014/02/O-HOMEM-QUE-CALCULAVA-Malba-Tahan.pdf)
 
-Última edição: 27/06/2023
+Última edição: 29/06/2023
 
 Por Walter Bolitto Carvalho
