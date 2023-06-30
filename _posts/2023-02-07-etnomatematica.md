@@ -4,6 +4,7 @@ title: "Etnomatemática"
 tags: ementas
 ---
 ### #Ementas para futuros virtuais
+
 # #EmentaEtnomatemática
 
 ## Contexto
@@ -121,4 +122,6 @@ Professor, você pode mapear o calendário de atividades da escola e avaliar se 
 
 Última edição: 29/06/2023
 
-Por Walter Bolitto Carvalho
+Por Walter Carvalho
+
+### #syllabus #ementa
