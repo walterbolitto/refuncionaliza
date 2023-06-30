@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Etnomatemática"
-tags: ementas
+tags: ementas \#ementa
 ---
 ### #Ementas para futuros virtuais
 
