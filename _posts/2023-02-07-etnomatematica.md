@@ -102,15 +102,22 @@ Professor, você pode mapear o calendário de atividades da escola e avaliar se 
 
 ## Outros links
 
+[ROSA, Milton; OREY, Daniel C. Abordagens atuais do programa etnomatemática: delineando um caminho para a ação pedagógica. **Boletim de Educação Matemática**, v. 19, n. 26, p. 1-26, 2006.]([https://journals.openedition.org/rccs/689](https://www.redalyc.org/pdf/2912/291221866003.pdf)
+
 [MENESES, Maria Paula. Epistemologias do sul. **Revista Crítica de Ciências Sociais**, n. 80, p. 5-10, 2008.](https://journals.openedition.org/rccs/689)
 
 [D’AMBROSIO, Ubiratan. O Programa Etnomatemática: uma síntese/The Ethnomathematics Program: A summary. **Acta Scientiae**, v. 10, n. 1, p. 07-16, 2008.](http://posgrad.ulbra.br/periodicos/index.php/acta/article/view/74)
+
+[SANTOS, Juliana Batista Pereira; LARA, Isabel Cristina Machado. O Ensino de Logaritmos: uma proposta que articula História da Matemática e Etnomatemática. **Revista Brasileira de História, Educação e Matemática (HIPÁTIA)**, v. 6, n. 2, p. 180-196, 2021.]([https://journals.openedition.org/rccs/689](https://ojs.ifsp.edu.br/index.php/hipatia/article/view/1847)
+
+[MENEGHETTI, Renata Cristina Geromel; LAMIM NETTO, Manoel de Souza; ZUFFI, Edna Maura. Etnomatemática e resolução de problemas como proposta metodológica para o Ensino Fundamental. **ZETETIKÉ. Revista de Educação Matemática**, v. 29, p. 1-17, 2021.](http://funes.uniandes.edu.co/24663/1/Meneghetti2021Etnomatematica.pdf)
+
+[CIMADON, Ediana; GIONGO, Ieda Maria. Geometria e educação infantil: um estudo de inspiração etnomatemática. **Amazônia: Revista de Educação em Ciências e Matemáticas**, v. 15, n. 33, p. 56-74, 2019.]([https://journals.openedition.org/rccs/689](http://novoperiodicos.ufpa.br/periodicos/index.php/revistaamazonia/article/view/5847)
 
 [PASSOS, C. M. Etnomatemática e educação matemática crítica: conexões teóricas e práticas. Dissertação de Mestrado Belo Horizonte, MG: UFMG, 2008.](https://www.ime.usp.br/~brolezzi/carolinepassos.pdf)
 
 [Canal do Youtube VEm Brasil - EtnoMatemaTicas Brasis](https://www.youtube.com/@VEmBrasilEtnoMatemaTicasBrasis/)
 
-[TAHAN, Malba. O homem que calculava. Rio de Janeiro: Record, 1968](https://www.revistaartereal.com.br/wp-content/uploads/2014/02/O-HOMEM-QUE-CALCULAVA-Malba-Tahan.pdf)
 
 Última edição: 29/06/2023
 
