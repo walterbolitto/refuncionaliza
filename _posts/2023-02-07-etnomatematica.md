@@ -37,15 +37,23 @@ Professor, proponha um debate sobre os avanços relevantes para a sociedade, bem
 
 Após o reconhecimento da importância da técnica na nossa sociedade e da sua crítica, sugere-se uma reflexão sobre como, tradicionalmente, aprendemos a trajetória do pensamento ocidental no contexto escolar. Apesar disso, povos com culturas diferentes muitas vezes desenvolveram tecnologias similares, partindo de pressupostos distintos e com grande potencialidade em contextos locais e globais. Exemplos disso incluem escolhas arquitetônicas e meios de transporte comuns em diferentes países. Em seguida, deve-se fazer uma aproximação destes conceitos com a disciplina de Matemática, fazendo uma reflexão sobre o fato de que diferentes culturas criaram técnicas específicas para construir seus pensamentos matemáticos. Desta forma, é possível concluir que a experiência de outros povos na Matemática pode colaborar com a aprendizagem de determinados conteúdos, dando significado à proposta da disciplina.
 
-Por fim, contextualize as técnicas e ferramentas utilizadas por diferentes grupos étnicos, alguns exemplos são: (1) o osso de Lebombo e do osso de Ishango, como tecnologias encontrada na África de 20.000 a.C., e (2) o suanpan (中式算盤), com registros iniciais no século I na China.
+Um dos momentos centrais na formação escolar em Matemática é a noção de quantificação e compreensão dos signos numéricos para a contagem, possibilitando toda forma de cálculo a ser desenvolvimento no decorrer da Educação Básica. Durante a formação da criança, é apresentado o sistema de numeração que utilizamos no cotidiano, baseado no sistema numérico hindu-arábico, e comumente uma representação moderna do sistema de numeração romana, representado por números como I, V, X e L.
+
+Sugere-se em um segundo momento da presente atividade a apresentação de sistemas de numeração de outras povos, possibilitando uma discussão sobre como diferentes sociedades se comunicam diferentemente sobre quantidades, e como isso é produto de fatores geográficas e culturais. O trabalho de Padrão (2008) apresenta a história de diferentes sistemas de numeração e da origem do Zero, enquanto o trabalho de Silva & Caldeira (2016) apresentam o sistema de numeração dos guaranis.
+
+Por fim, contextualize as técnicas e ferramentas utilizadas por diferentes grupos étnicos, alguns exemplos são: (1) o osso de Lebombo e do osso de Ishango, como tecnologias encontrada na África de 20.000 a.C., e (2) o suanpan (中式算盤), com registros iniciais no século I na China, como apresentados nos trabalhos de Santos (2019) e Silva (2011).
 
 [Slides em PDF](https://refuncionaware.github.io/assets/ementas/etnomatematica/Atividade%201.pdf)
 
 [Download das imagens dos slides](https://refuncionaware.github.io/assets/ementas/etnomatematica/Atividade%201.zip)
 
+[PADRÃO, D. L. **A origem do Zero**. Dissertação de Mestrado em Ensino de Matemática – São Paulo PUCSP, 2008.](https://core.ac.uk/download/pdf/268244462.pdf](https://repositorio.pucsp.br/bitstream/handle/11332/1/Darice%20Lascala%20Padrao.pdf)
+
+[SILVA, Sérgio Florentino da; CALDEIRA, Ademir Donizeti. Etnomatemática do Sistema de Contagem Guarani das Aldeias Itaty, do Morro dos Cavalos, e M'Biguaçu. **Bolema: Boletim de Educação Matemática**, v. 30, p. 992-1013, 2016.](https://core.ac.uk/download/pdf/268244462.pdf)
+
 [SANTOS, Carla. Os números primos de Ishango. **Revista Brasileira Multidisciplinar**, v. 22, n. 2, p. 120-130, 2019.](https://core.ac.uk/download/pdf/268244462.pdf)
 
-[SILVA, João Batista Rodrigues da. Formação continuada de professores que ensinam matemática: o papel do ábaco na ressignificação da prática pedagógica. 2011. Dissertação de Mestrado. Universidade Federal do Rio Grande do Norte.](https://repositorio.ufrn.br/bitstream/123456789/16073/1/JoaoBRS_DISSERT.pdf)
+[SILVA, João Batista Rodrigues da. **Formação continuada de professores que ensinam matemática: o papel do ábaco na ressignificação da prática pedagógica**. Dissertação de Mestrado. Universidade Federal do Rio Grande do Norte, 2011.](https://repositorio.ufrn.br/bitstream/123456789/16073/1/JoaoBRS_DISSERT.pdf)
 
 ## Atividade 2 - Sistemas e instrumentos de medidas
 
