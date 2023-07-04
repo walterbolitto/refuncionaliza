@@ -61,13 +61,13 @@ Inicie a atividade com um debate sobre as relações entre tamanhos e distância
 
 Realize comparações e exercícios a partir da reprodução de formas de medição propostas nos artigos ou construa uma prática a partir de formas de medição presentes no cotidiano dos estudantes, relacionando-as, por exemplo, com o Sistema Internacional de Unidades. Uma possibilidade interessante é a construção de uma unidade de medida fictícia e a expressão de determinados problemas a partir dessa unidade, conectando-a com o cotidiano da sala de aula.
 
-[RODRÍGUEZ-NIETO, Camilo et al. Etnomatemática y medidas. Un estudio con comerciantes de un mercado del suroeste mexicano. Tecné, Episteme y Didaxis: TED, n. 51, p. 13-36, 2022.](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-38142022000100013)
+[RODRÍGUEZ-NIETO, Camilo et al. Etnomatemática y medidas. Un estudio con comerciantes de un mercado del suroeste mexicano. **Tecné, Episteme y Didaxis: TED**, n. 51, p. 13-36, 2022.](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-38142022000100013)
 
-[OLIVEIRA, José Sávio Bicho de; LUCENA, Isabel Cristina Rodrigues de. Alfabetização matemática em classes multisseriadas de escolas ribeirinhas da Amazônia: atuação docente em foco. Revista Brasileira de Estudos Pedagógicos, v. 95, p. 87-111, 2014.](https://www.scielo.br/j/rbeped/a/TcmFgtppr9rHCQWMMdb8wSh/?format=pdf&lang=pt)
+[OLIVEIRA, José Sávio Bicho de; LUCENA, Isabel Cristina Rodrigues de. Alfabetização matemática em classes multisseriadas de escolas ribeirinhas da Amazônia: atuação docente em foco. **Revista Brasileira de Estudos Pedagógicos**, v. 95, p. 87-111, 2014.](https://www.scielo.br/j/rbeped/a/TcmFgtppr9rHCQWMMdb8wSh/?format=pdf&lang=pt)
 
-[DE OLIVEIRA JÚNIOR, Benedito; DOS SANTOS, Edilanê Mendes. Etnomatemática: O ensino de medida de comprimento no 6º ano do ensino fundamental na Escola Indígena Kanamari Maraã-AM, Brasil. Revista Latinoamericana de Etnomatemática Perspectivas Socioculturales de la Educación Matemática, v. 9, n. 2, p. 53-66, 2016.](https://www.redalyc.org/journal/2740/274046804004/html/)
+[DE OLIVEIRA JÚNIOR, Benedito; DOS SANTOS, Edilanê Mendes. Etnomatemática: O ensino de medida de comprimento no 6º ano do ensino fundamental na Escola Indígena Kanamari Maraã-AM, Brasil. **Revista Latinoamericana de Etnomatemática Perspectivas Socioculturales de la Educación Matemática**, v. 9, n. 2, p. 53-66, 2016.](https://www.redalyc.org/journal/2740/274046804004/html/)
 
-[ATTIE, João Paulo. Relações de poder no processo de ensino e aprendizagem de matemática. 2013. Tese de Doutorado. Universidade de São Paulo.](https://www.teses.usp.br/teses/disponiveis/48/48134/tde-20062013-142704/publico/JOAO_PAULO_ATTIE_rev.pdf)
+[ATTIE, João Paulo. **Relações de poder no processo de ensino e aprendizagem de matemática**. Tese de Doutorado. Universidade de São Paulo. 2013](https://www.teses.usp.br/teses/disponiveis/48/48134/tde-20062013-142704/publico/JOAO_PAULO_ATTIE_rev.pdf)
 
 ## Atividade 3 - Jogos de diferentes povos na matemática
 
