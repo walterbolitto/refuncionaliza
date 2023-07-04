@@ -123,7 +123,7 @@ Professor, você pode mapear o calendário de atividades da escola e avaliar se 
 
 [CIMADON, Ediana; GIONGO, Ieda Maria. Geometria e educação infantil: um estudo de inspiração etnomatemática. **Amazônia: Revista de Educação em Ciências e Matemáticas**, v. 15, n. 33, p. 56-74, 2019.](http://novoperiodicos.ufpa.br/periodicos/index.php/revistaamazonia/article/view/5847)
 
-[PASSOS, C. M. Etnomatemática e educação matemática crítica: conexões teóricas e práticas. Dissertação de Mestrado Belo Horizonte, MG: UFMG, 2008.](https://www.ime.usp.br/~brolezzi/carolinepassos.pdf)
+[PASSOS, Caroline M. **Etnomatemática e educação matemática crítica: conexões teóricas e práticas**. Dissertação de Mestrado Belo Horizonte, MG: UFMG, 2008.](https://www.ime.usp.br/~brolezzi/carolinepassos.pdf)
 
 [Canal do Youtube VEm Brasil - EtnoMatemaTicas Brasis](https://www.youtube.com/@VEmBrasilEtnoMatemaTicasBrasis/)
 
