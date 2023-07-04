@@ -47,7 +47,7 @@ Por fim, contextualize as técnicas e ferramentas utilizadas por diferentes grup
 
 [Download das imagens dos slides](https://refuncionaware.github.io/assets/ementas/etnomatematica/Atividade%201.zip)
 
-[PADRÃO, D. L. **A origem do Zero**. Dissertação de Mestrado em Ensino de Matemática – São Paulo PUCSP, 2008.](https://core.ac.uk/download/pdf/268244462.pdf](https://repositorio.pucsp.br/bitstream/handle/11332/1/Darice%20Lascala%20Padrao.pdf)
+[PADRÃO, D. L. **A origem do Zero**. Dissertação de Mestrado em Ensino de Matemática – São Paulo PUCSP, 2008.](https://repositorio.pucsp.br/bitstream/handle/11332/1/Darice%20Lascala%20Padrao.pdf)
 
 [SILVA, Sérgio Florentino da; CALDEIRA, Ademir Donizeti. Etnomatemática do Sistema de Contagem Guarani das Aldeias Itaty, do Morro dos Cavalos, e M'Biguaçu. **Bolema: Boletim de Educação Matemática**, v. 30, p. 992-1013, 2016.](https://core.ac.uk/download/pdf/268244462.pdf)
 
@@ -128,7 +128,7 @@ Professor, você pode mapear o calendário de atividades da escola e avaliar se 
 [Canal do Youtube VEm Brasil - EtnoMatemaTicas Brasis](https://www.youtube.com/@VEmBrasilEtnoMatemaTicasBrasis/)
 
 
-Última edição: 29/06/2023
+Última edição: 03/07/2023
 
 Por Walter Carvalho
 
