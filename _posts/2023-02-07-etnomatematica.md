@@ -80,7 +80,7 @@ Em um segundo momento, faça com a turma a confecção e uma sessão de jogos qu
 
 [SANTOS, Eliane Costa. Simbiose entre Etnomatemática e a cultura Africana: Jogo Mancala Awelé em sala de aula: MANCALA AWELÉ EM SALA DE AULA. **Com a Palavra, o Professor**, v. 2, n. 3, p. 88-99, 2017.](http://revista.geem.mat.br/index.php/cpp/article/view/170)
 
-[DE JESUS, Érika Lúcia Ferreira; SOUZA, Roberto Barcelos. Formação de professores quilombolas e o Programa Etnomatemática: repensando processos de ensino da Matemática. Revista Brasileira De Educação Do Campo, v. 3, n. 3, p. 1064-1083, 2018.](https://sistemas.uft.edu.br/periodicos/index.php/campo/article/view/5099/14506)
+[JESUS, Érika Lúcia Ferreira; SOUZA, Roberto Barcelos. Formação de professores quilombolas e o Programa Etnomatemática: repensando processos de ensino da Matemática. Revista Brasileira De Educação Do Campo, v. 3, n. 3, p. 1064-1083, 2018.](https://sistemas.uft.edu.br/periodicos/index.php/campo/article/view/5099/14506)
 
 [Plano de Aula - Jogo africano Tsoro Yematatu no ensino de geometria de triângulos. **TV UFBA** (vídeo)](https://www.youtube.com/watch?v=U8jcKILmElw)
 
@@ -102,7 +102,7 @@ Professor, você pode mapear o calendário de atividades da escola e avaliar se 
 
 [Download das imagens dos slides](https://refuncionaware.github.io/assets/ementas/etnomatematica/Atividade%204.zip)
 
-[SANTOS, Luane Bento dos. **Para além da estética: uma abordagem etnomatemática para a cultura de trançar cabelos nos grupos afro-brasileiros. Dissertação de Mestrado em Relações Étnico-raciais**. Centro Federal de Educação e Tecnologia Celso Suckson da Fonseca, Rio de Janeiro, 2013.
+[SANTOS, Luane Bento. **Para além da estética: uma abordagem etnomatemática para a cultura de trançar cabelos nos grupos afro-brasileiros. Dissertação de Mestrado em Relações Étnico-raciais**. Centro Federal de Educação e Tecnologia Celso Suckson da Fonseca, Rio de Janeiro, 2013.
 ](https://dippg.cefet-rj.br/pprer/attachments/article/81/8_Luane%20Bento%20dos%20Santos.pdf)
 
 [ Tranças Afro, Ancestralidade e Etnomatemática com Luane. Trenzas afro, ascendencia y etnomatemática. **Luane Bento dos Santos** (vídeo)](https://www.youtube.com/watch?v=nCybCqGIico)
