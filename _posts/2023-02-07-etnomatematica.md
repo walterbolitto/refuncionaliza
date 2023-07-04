@@ -31,7 +31,7 @@ Outro ponto importante é que seria um erro associar a etnomatemática exclusiva
 
 ## Atividade 1 - O lugar da técnica nas matemáticas de outras culturas
 
-A técnica esteve presente em todos os períodos históricos, sendo comum debater em sala de aula suas mudanças ao longo da história. No entanto, nem sempre é discutido se toda invenção científica ou tecnológica atual representa um avanço e como ela impacta a nós.
+A técnica esteve presente em todos os períodos históricos, sendo comum debater em sala de aula suas mudanças ao longo da história. No entanto, nem sempre é discutido se toda invenção científica ou tecnológica atual representa um avanço e como ela nos impacta.
 
 Professor, proponha um debate sobre os avanços relevantes para a sociedade, bem como sobre as novas tecnologias que nem sempre são benéficas para nós. Hoje mais do que nunca, a atual manifestação da tecnologia contribui para a perpetuação de certas forças, pois aqueles que conhecem a técnica e dominam as classes sociais ou países sem domínios tecnológicos as controlam, como é o caso de armas nucleares, [algoritmos em redes sociais que podem nos direcionar para notícias falsas e discursos prejudiciais](https://ufmg.br/comunicacao/publicacoes/boletim/edicao/2070/o-radicalismo-em-gradacoes), mas também há oportunidades de acesso ao conhecimento em espaços mais democráticos, como a Wikipedia.
 
