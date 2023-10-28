@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Leia-me"
-tags:
+tags: /leiame
 ---
 ### Leia-me
 
