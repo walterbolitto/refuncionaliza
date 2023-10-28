@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: https://refuncionaware.github.io
-baseurl: /
+baseurl: /20230207/etnomatematica/
 
 # variables
 name: Refuncionaware
