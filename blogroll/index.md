@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: me
 title: Lista de links
 ---
 
