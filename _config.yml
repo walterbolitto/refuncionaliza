@@ -1,9 +1,9 @@
 permalink: /:year:month:day/:title
-url: https://refuncionamento.github.io
+url: https://refuncionalizar.github.io
 baseurl: /
 
 # variables
-name: Refuncionamento
+name: refuncionalizar
 description: Your description here
 google_verification: null
 
