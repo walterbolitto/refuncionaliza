@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "9/4/23-Manifesto Arquivista, por Yuk Hui"
+title: "Manifesto Arquivista, por Yuk Hui"
 tags: /traducoes
 ---
 ### #Tradução
