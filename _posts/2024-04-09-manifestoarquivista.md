@@ -58,12 +58,12 @@ Sob essa interpretação teórica, o manifesto do arquivista é uma proposta par
 
 <a name="b3"></a> [[3]](#a3) MARC inclui: padrão MARC, dialeto MARC, ISO2709 MARCXML, AACR2 etc.
 
-<a name="b4"></a> [[4]](#a4) Ver §26 Das Mitdasein der Anderen und das alltägliche Mitsein, in Sein und Zeit, Max Niemeyer Verlag Tübingen, 2006
+<a name="b4"></a> [[4]](#a4) Ver §26 Das Mitdasein der Anderen und das alltägliche Mitsein, in Sein und Zeit, Max Niemeyer Verlag Tübingen, 2006.
 
-<a name="b5"></a> [[5]](#a5) Esses livros são o que Bernard Stiegler redescobriu na obra de Donald Winnicott sobre objetos transicionais. O primeiro objeto transicional é o polegar, os bebês chupam o polegar para compensar o desaparecimento das mães. Ver Bernard Stiegler (2011), Ce qui fait que la vie vaut la peine d'être vécue: De la pharmacologie, Flammarion
+<a name="b5"></a> [[5]](#a5) Esses livros são o que Bernard Stiegler redescobriu na obra de Donald Winnicott sobre objetos transicionais. O primeiro objeto transicional é o polegar, os bebês chupam o polegar para compensar o desaparecimento das mães. Ver Bernard Stiegler (2011), Ce qui fait que la vie vaut la peine d'être vécue: De la pharmacologie, Flammarion.
 
-<a name="b6"></a> [[6]](#a6) Gilbert Simondon(1958, 2012), Du Mode d'Existence des objects techniques, Aubier, p.101
+<a name="b6"></a> [[6]](#a6) Gilbert Simondon(1958, 2012), Du Mode d'Existence des objects techniques, Aubier, p.101.
 
-<a name="b7"></a> [[7]](#a7) Gilbert Simondon, MEOT (1989) p.101-102, quoted by Xavier Guchet(2011), Pour un Humanisme Technologique – Culture, Technique et Société dans la philosophie de Gilbert Simondon, PUF, p.110
+<a name="b7"></a> [[7]](#a7) Gilbert Simondon, MEOT (1989) p.101-102, quoted by Xavier Guchet(2011), Pour un Humanisme Technologique – Culture, Technique et Société dans la philosophie de Gilbert Simondon, PUF, p.110.
 
-<a name="b8"></a> [[8]](#a8) Jean Marie Vaysse (2006), Heidegger et Simondon : Technique et Individuation, in Technique, Monde, Individuation : Heidegger, Simondon, Deleuze, ed. J.M. Vaysse, Georg OLms Verlag
+<a name="b8"></a> [[8]](#a8) Jean Marie Vaysse (2006), Heidegger et Simondon : Technique et Individuation, in Technique, Monde, Individuation : Heidegger, Simondon, Deleuze, ed. J.M. Vaysse, Georg OLms Verlag.
