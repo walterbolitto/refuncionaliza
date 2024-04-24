@@ -94,8 +94,6 @@ In this context, efforts are being made by professional associations such as ACM
 
 After the initiative of the propaedeutic approach in proposing a curriculum, the instructionist and constructionist approaches also present proposals based on their assumptions. The 'Creative Computing Guide' text focuses on project construction with Scratch, through the constructionist approach, articulating knowledge and competencies also present in the CSTA curriculum (Brennan; Balch; Chung, 2019). Meanwhile, through the instructional approach, we find the CS Discoveries curriculum proposed by Code.org. Yet despite discussing computing topics present in curricular documents like CSTA, themes related to social impacts such as the use of data are covered superficially.  These themes, potentially relevant to social transformation, are adequately in-depth in CSEd's critical approach (Kafai, Proctor and Lui, 2020).
 
-FIG2xxxxxxx
-
 The promulgation of the document 'Computing in Basic Education - Complement to BNCC' in Brazil ensures that the subject becomes mandatory in basic education from 2023, which This document will potentially collaborate with development of curricular studies of computer science in the brazilian formal education, as well as finding ways to be adequate in different CSEd approaches (Brasil, 2022).
 
 ## References
