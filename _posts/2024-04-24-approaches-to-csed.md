@@ -6,7 +6,7 @@ tags: /curriculo
 
 This work is a translated, revised, and updated version of subsections 2.1.1 and 2.1.2 of my master's dissertation (Carvalho, 2023). These subsections provide a brief historical overview and classification of the approaches found in the field of Computer Science Education. The present translation was prepared during the application process for the Certificate Scholarship at the New Centre for Research & Practice, in the Transdisciplinary Studies program.
 
-Carvalho, W. R. B. (2023). EMPADARIA - framework para o desenvolvimento de ficções interativas por meio da Pedagogia de Projetos. Dissertation (Master's in Computer Science) - UFABC (Universidade Federal do ABC). São Paulo. <a href=’https://www.researchgate.net/publication/379568331_EMPADARIA_-_framework_para_o_desenvolvimento_de_ficcoes_interativas_por_meio_da_Pedagogia_de_Projetos’> Link </a>
+Carvalho, W. R. B. (2023). EMPADARIA - framework para o desenvolvimento de ficções interativas por meio da Pedagogia de Projetos. Dissertation (Master's in Computer Science) - UFABC (Universidade Federal do ABC). São Paulo. <a href="https://www.researchgate.net/publication/379568331_EMPADARIA_-_framework_para_o_desenvolvimento_de_ficcoes_interativas_por_meio_da_Pedagogia_de_Projetos">Link</a>
 
 ## Approaches to Computer Science in Education
 
@@ -14,7 +14,7 @@ Established over 50 years ago, the field of computer science education (CSEd) en
 
 <p align="center">Table 1 - Pedagogical trends (from Libâneo, 2009)</p>
 
- <img src="https://raw.githubusercontent.com/refuncionalizar/refuncionalizar.github.io/master/assets/posts/app1.png" width="90%"> 
+<center><img src="https://raw.githubusercontent.com/refuncionalizar/refuncionalizar.github.io/master/assets/posts/app1.png" width="75%"> </center>
 
 There are various approaches to classify actors in CSEd, whether through their differentiated historical context, tools, pedagogical objectives, learning theory, or the combination of two or more factors. Valente (1989) identifies more than one interpretation for the term "educational software" from different groups: (I) computer-assisted instruction (CAI), (II) discovery learning tools, and (III) tools with educational potential for both students and educators. They differ in their software specifications and educational potential. When one of the three meanings is used, we can identify the alignment with a particular pedagogical trend or a hybrid pedagogical approach.
 
