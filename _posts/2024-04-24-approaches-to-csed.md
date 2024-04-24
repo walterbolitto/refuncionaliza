@@ -8,7 +8,7 @@ This work is a translated, revised, and updated version of subsections 2.1.1 and
 
 Carvalho, W. R. B. (2023). EMPADARIA - framework para o desenvolvimento de ficções interativas por meio da Pedagogia de Projetos. Dissertation (Master's in Computer Science) - UFABC (Universidade Federal do ABC). São Paulo. <a href="https://www.researchgate.net/publication/379568331_EMPADARIA_-_framework_para_o_desenvolvimento_de_ficcoes_interativas_por_meio_da_Pedagogia_de_Projetos">Link</a>
 
-## Approaches to Computer Science in Education
+# Approaches to Computer Science in Education
 
 Established over 50 years ago, the field of computer science education (CSEd) encounters a diversity of references, knowledge, and practices from the groups that compose it. This section highlights the efforts by these groups, contributing to the intention of situating the current work in the current CSEd scenario. Table 1 presents a classification proposed by Libâneo (2009) of pedagogical trends that underlie the CSEd approaches discussed in the next section.
 
@@ -18,7 +18,7 @@ Established over 50 years ago, the field of computer science education (CSEd) en
 
 There are various approaches to classify actors in CSEd, whether through their differentiated historical context, tools, pedagogical objectives, learning theory, or the combination of two or more factors. Valente (1989) identifies more than one interpretation for the term "educational software" from different groups: (I) computer-assisted instruction (CAI), (II) discovery learning tools, and (III) tools with educational potential for both students and educators. They differ in their software specifications and educational potential. When one of the three meanings is used, we can identify the alignment with a particular pedagogical trend or a hybrid pedagogical approach.
 
-### Actors in CSed
+## Actors in CSed
 
 Among the possible classifications to contextualize CSEd in Brazil and worldwide, Neto (2002) proposes a classification based on five historical moments, mainly stemming from the possibilities and limitations of the type of technology available in each period, with the following 'waves': (1) administrative, marked by the first computers; (2) Logo language and programming, marked by computers like Hotbits and MSX; (3) Basic Informatics, marked by the graphical interface; (4) educational software, marked by the development and consumption of software in educational conglomerates; and (5) Internet, Information, and Communication, marked by the advent of the internet and its developments.
 
@@ -48,7 +48,7 @@ Kafai, Proctor and Lui (2020) presents a new approach, titled "Critical Computat
 
 <p align="center">Table 2: Overview of Learning Perspectives in Framing Computational Thinking (from Kafai et al., 2020)</p>
 
-xcxxxxxximg
+<center><img src="https://raw.githubusercontent.com/refuncionalizar/refuncionalizar.github.io/master/assets/posts/app2.png" width="85%"> </center>
 
 The emergence of a critical turn in CSEd studies stems from the advances in critical and post-critical studies on critical digital culture, bringing together themes from authors from different areas close to technology, such as the cypherpunk manifesto by Hughes (1993), cyberfeminism by Plant (1997), the analysis of Californian Ideology discourses by Barbrook e Cameron (2018), the discussion on the privatization of knowledge by Swartz (2008), and studies on democracy and algorithms by Silveira (2017)<a name="a4"></a> [[4]](#b4), among other examples from critical theory. In addition to the debate from academia, other spaces for the circulation of these discourses are found in digital spaces, such as the Tecnopolítica and Tech Won't Save Us podcasts, and physical events like cryptoparties, notably the Cryptorave<a name="a5"></a> [[5]](#b5) in the brazilian context.
 
@@ -60,7 +60,7 @@ Among the common aspects of the manifestation of critical pedagogy, there is the
 
 The choice of terms by which groups or forms of thought in CSEd are named, such as waves, moments, evolutions, and paradigms, as seen in the works of Neto (2002), Kaminski, Klüber & Boscarioli (2021) and Ayala & Yano (1998), may suggest that there is a sequencing of knowledge replacing previous practices. Such terms, reminiscent of the concept of paradigm proposed by Thomas Kuhn, may be inaccurate when analyzing the history of CSEd and current pedagogical trends for two main reasons: (I) recent approaches that are result of the influence and participation of researchers or practices from other areas may be mistakenly understood as better due to the contemporaneity of their thinking, even if it doesn't represent crises in the knowledge of pioneering groups; and (II) the fact that there is no hegemony of a group of thought, important for identifying a Kuhnian paradigm, as researchers from different approaches continue to develop their field of knowledge and reproduce their practices and discourses based on their assumptions and objectives.
 
-### Educational spaces that CSEd inhabits
+## Educational spaces that CSEd inhabits
 
 The use of educational software impacts the role of the teacher in the classroom, expanding or reducing their functions according to the intentionality of the tool Vosgerau; Rossari, 2017. The space for learning development and the choice of learning objectives helps to understand nuances of the CSEd approach.
 
@@ -74,7 +74,7 @@ A series of historical factors and official documents guided the focus of CS res
 
 <p align="center">Figure 1: Structure of CSEd approaches</p>
 
-xxxxx
+<center><img src="https://raw.githubusercontent.com/refuncionalizar/refuncionalizar.github.io/master/assets/posts/app3.jpg" width="65%"> </center>
 
 In the last 70 years, different experiences have been carried out in non-formal education in various subjects through self-instructional pedagogical practices, often built from practices presented through instructional design. This approach was proposed from the 1960s by behaviorists, with the circulation of ideas from different fields of science, such as psychology, engineering, and mathematics. More recently, this approach has been adopted by the industry to prepare cheap labor in technology through instructional design (Dick, 1965; Seels, 1989; Brasil, 2022).
 
@@ -98,7 +98,7 @@ FIG2xxxxxxx
 
 The promulgation of the document 'Computing in Basic Education - Complement to BNCC' in Brazil ensures that the subject becomes mandatory in basic education from 2023, which This document will potentially collaborate with development of curricular studies of computer science in the brazilian formal education, as well as finding ways to be adequate in different CSEd approaches (Brasil, 2022).
 
-### References
+## References
 
 ACM, C. Pre-College Task Force Comm. of the Educ. Board of the. Acm model high school computer science curriculum. Communications of the ACM, ACM New York, NY, USA, v. 36, n. 5, p. 87–90, 1993.
 
