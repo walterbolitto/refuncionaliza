@@ -7,6 +7,8 @@ tags: /traducoes
 
 Tradução por Walter Bolitto Carvalho
 
+Texto original: https://www.metamute.org/editorial/lab/archivist-manifesto
+
 # Manifesto Arquivista, por Yuk Hui
 
 > *"Um novo arquivista foi nomeado. Mas será que foi mesmo nomeado? Ou ele agiria por conta própria?... Ele não se vai preocupar com o que os arquivistas anteriores trataram até então de mil maneiras diferentes: proposições e frases. Ele irá ignorar tanto a hierarquia vertical de proposições empilhadas, como a relação horizontal estabelecida entre frases, em que cada uma parece responder à seguinte."*
