@@ -22,3 +22,5 @@ title: Refuncionaware
 [Hack Education - Audrey Watters](http://hackeducation.com/)
 
 [Even Prometheus Started Small - Filipe Felizardo](https://evenprometheusstartedsmall.wordpress.com/)
+
+[Textura Aberta - Cássia Siqueira](https://texturaberta.wordpress.com/)
