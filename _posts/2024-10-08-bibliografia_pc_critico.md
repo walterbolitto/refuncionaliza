@@ -61,7 +61,7 @@ Saviani, D., 2018. Escola e democracia. Autores associados.
 
 Saviani, D., 2021. Pedagogia histórico-crítica: primeiras aproximações. Autores associados.
 
-## Pedagogia da libertação
+## Pedagogia da Libertação
 
 Importante estar atento à forma que alguns autores citam Freire. Na literatura de diferentes disciplinas, incluindo informática, são encontradas subversões de pedagogias liberais que se opõem a uma abordagem conteudista ao citar Freire (em especial sua "primeira fase") em defesa de algo semelhante a um currículo de competências (para preparação de mão-de-obra barata e outros aspectos de interesse do estado neoliberal como smart cities/cidades da vigilância).
 
@@ -69,7 +69,7 @@ Freire, P., 2014. Pedagogia da esperança: um reencontro com a pedagogia do opri
 
 FREIRE, P., 1981. Pedagogia do oprimido. 9. ed. Rio de Janeiro: Paz e Terra.
 
-## Pedagogias pós-frerianas / CTS
+## Pedagogias pós-freirianas / CTS
 
 Muenchen, C. and Delizoicov, D., 2014. Os três momentos pedagógicos e o contexto de produção do livro" Física". Ciência & Educação (Bauru), 20, pp.617-638.
 
