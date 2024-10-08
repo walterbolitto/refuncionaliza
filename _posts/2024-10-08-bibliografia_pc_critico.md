@@ -7,7 +7,7 @@ tags: /curriculo
 
 # Bibliografia sobre o Pensamento Computacional Crítico
 
-Essa bibliografia apresenta trabalhos diversos de congressos, periódicos, livros, dissertações e teses que abordam o uso do Pensamento Computacional Crítico ou estudos críticos sobre computação. Também foram organizados alguns documentos que norteiam o currículo de computação na educação básica, bem como textos fundamentais da pedagogia crítica, para futuras pesquisas. Sugestões para a inserção de novas referências podem ser endereçadas ao email walter.carvalho@ufabc.edu.br.
+Essa bibliografia apresenta trabalhos diversos de congressos, periódicos, livros, dissertações e teses que abordam o uso do Pensamento Computacional Crítico ou estudos críticos sobre computação. Também foram organizados alguns documentos que norteiam o currículo de computação na educação básica, bem como textos fundamentais da pedagogia crítica. Sugestões para a inserção de novas referências podem ser endereçadas ao email walter.carvalho@ufabc.edu.br.
 
 # Artigos que abordam o Pensamento Computacional Crítico
 
