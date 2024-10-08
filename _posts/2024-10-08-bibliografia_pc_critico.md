@@ -29,9 +29,9 @@ França, R.S., Falcão, T.P., Peres, F. and Morais, D., 2021. Uma análise da em
 
 # Teses e Dissertações que abordam o Pensamento Computacional Crítico
 
-CARVALHO, W.R.B.. EMPADARIA - framework para o desenvolvimento de ficções interativas por meio da Pedagogia de Projetos'. 21/12/2023 198 f. Mestrado em Ciência da Computação Instituição de Ensino: UNIVERSIDADE FEDERAL DO ABC, Santo André.
+Carvalho, W.R.B., EMPADARIA - framework para o desenvolvimento de ficções interativas por meio da Pedagogia de Projetos'. 21/12/2023 198 f. Mestrado em Ciência da Computação Instituição de Ensino: UNIVERSIDADE FEDERAL DO ABC, Santo André.
 
-FRANCA, R.S., Uma Abordagem Pedagógica Incorporada para o Desenvolvimento do Pensamento Computacional no Ensino Fundamental'. 03/03/2020 139 f. Doutorado em CIÊNCIAS DA COMPUTAÇÃO Instituição de Ensino: UNIVERSIDADE FEDERAL DE PERNAMBUCO, Recife.
+Franca, R.S., Uma Abordagem Pedagógica Incorporada para o Desenvolvimento do Pensamento Computacional no Ensino Fundamental'. 03/03/2020 139 f. Doutorado em CIÊNCIAS DA COMPUTAÇÃO Instituição de Ensino: UNIVERSIDADE FEDERAL DE PERNAMBUCO, Recife.
 
 # Estudos Críticos sobre Computação
 
@@ -67,7 +67,7 @@ Importante estar atento à forma que alguns autores citam Freire. Na literatura 
 
 Freire, P., 2014. Pedagogia da esperança: um reencontro com a pedagogia do oprimido. Rio de Janeiro: Paz e Terra.
 
-FREIRE, P., 1981. Pedagogia do oprimido. 9. ed. Rio de Janeiro: Paz e Terra.
+Freire, P., 1981. Pedagogia do oprimido. 9. ed. Rio de Janeiro: Paz e Terra.
 
 ## Pedagogias pós-freirianas / CTS
 
