@@ -9,7 +9,7 @@ tags: /curriculo
 
 Essa bibliografia apresenta trabalhos diversos de congressos, periódicos, livros, dissertações e teses que abordam o uso do Pensamento Computacional Crítico ou estudos críticos sobre computação. Também foram organizados alguns documentos que norteiam o currículo de computação na educação básica, bem como textos fundamentais da pedagogia crítica, para futuras pesquisas. Sugestões para a inserção de novas referências podem ser endereçadas ao email walter.carvalho@ufabc.edu.br.
 
-## Artigos que abordam o Pensamento Computacional Crítico
+# Artigos que abordam o Pensamento Computacional Crítico
 
 Kafai, Y., Proctor, C. and Lui, D., 2020. From theory bias to theory dialogue: embracing cognitive, situated, and critical framings of computational thinking in K-12 CS education. acm Inroads, 11(1), pp.44-53.
 
@@ -27,13 +27,13 @@ Pereira, W.G. and de França, R.S., 2022. Ensino de Computação na Educação B
 
 França, R.S., Falcão, T.P., Peres, F. and Morais, D., 2021. Uma análise da emergência de pensamento computacional em práticas de desenvolvimento de jogos digitais na educaçao do campo. Anais do Simpósio Brasileiro de Educação em Computação (pp. 104-112). SBC.
 
-## Teses e Dissertações que abordam o Pensamento Computacional Crítico
+# Teses e Dissertações que abordam o Pensamento Computacional Crítico
 
 CARVALHO, W.R.B.. EMPADARIA - framework para o desenvolvimento de ficções interativas por meio da Pedagogia de Projetos'. 21/12/2023 198 f. Mestrado em Ciência da Computação Instituição de Ensino: UNIVERSIDADE FEDERAL DO ABC, Santo André.
 
 FRANCA, R.S., Uma Abordagem Pedagógica Incorporada para o Desenvolvimento do Pensamento Computacional no Ensino Fundamental'. 03/03/2020 139 f. Doutorado em CIÊNCIAS DA COMPUTAÇÃO Instituição de Ensino: UNIVERSIDADE FEDERAL DE PERNAMBUCO, Recife.
 
-## Estudos Críticos sobre Computação
+# Estudos Críticos sobre Computação
 
 Silveira, S.A., 2020. Responsabilidade algorítmica, personalidade eletrônica e democracia. Revista Eletrônica Internacional de Economia Política da Informação da Comunicação e da Cultura, 22(2), pp.83-96.
 
@@ -43,9 +43,9 @@ Magalhães, J.A., 2023. Platforms as Law: A speculative theory of coded, interfa
 
 Valente, J.C. and Grohmann, R., 2024. Critical data studies with Latin America: Theorizing beyond data colonialism. Big Data & Society, 11(1), p.20539517241227875.
 
-## Pedagogias Críticas
+# Pedagogias Críticas
 
-### Geral
+## Geral
 
 Apple, M.W., 2012. Education and power. Routledge.
 
@@ -55,13 +55,13 @@ Young, M., 2017. The rise of the meritocracy. Routledge.
 
 Luckesi, C.C., 2011. Avaliação da aprendizagem: componente do ato pedagógico. São Paulo: Cortez.
 
-### Pedagogia Histórico-Crítica
+## Pedagogia Histórico-Crítica
 
 Saviani, D., 2018. Escola e democracia. Autores associados.
 
 Saviani, D., 2021. Pedagogia histórico-crítica: primeiras aproximações. Autores associados.
 
-### Pedagogia da libertação
+## Pedagogia da libertação
 
 Importante estar atento à forma que alguns autores citam Freire. Na literatura de diferentes disciplinas, incluindo informática, são encontradas subversões de pedagogias liberais que se opõem a uma abordagem conteudista ao citar Freire (em especial sua "primeira fase") em defesa de algo semelhante a um currículo de competências (pro mercado e pro estado neoliberal).
 
@@ -69,13 +69,13 @@ Freire, P., 2014. Pedagogia da esperança: um reencontro com a pedagogia do opri
 
 FREIRE, P., 1981. Pedagogia do oprimido. 9. ed. Rio de Janeiro: Paz e Terra.
 
-### Pedagogias pós-frerianas / CTS
+## Pedagogias pós-frerianas / CTS
 
 Muenchen, C. and Delizoicov, D., 2014. Os três momentos pedagógicos e o contexto de produção do livro" Física". Ciência & Educação (Bauru), 20, pp.617-638.
 
 Ghedin, E. and Pimenta, S.G., 2022. Professor reflexivo no Brasil: gênese e crítica de um conceito. Cortez Editora.
 
-## Documentos Oficiais
+# Documentos Oficiais
 
 Parecer CNE/CEB nº 2/2022 – Normas sobre Computação na Educação Básica – Complemento à Base Nacional Comum Curricular (BNCC). -  <a href="http://refuncionalizar.com.br/assets/arquivos/parecer_ceb002_22.pdf">Link</a>
 
@@ -87,4 +87,4 @@ Lei Nº 14.533, de 11 de Janeiro de 2023 (Política Nacional de Educação Digit
 
 Lei Nº 9.394, de 20 de Dezembro de 1996 (Diretrizes e bases da educação nacional) - <a href="https://www.planalto.gov.br/ccivil_03/leis/l9394.htm">Link</a>
 
-Última atualização - 08/10/2024
+## Última atualização - 08/10/2024
