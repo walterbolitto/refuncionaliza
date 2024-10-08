@@ -63,7 +63,7 @@ Saviani, D., 2021. Pedagogia histórico-crítica: primeiras aproximações. Auto
 
 ## Pedagogia da libertação
 
-Importante estar atento à forma que alguns autores citam Freire. Na literatura de diferentes disciplinas, incluindo informática, são encontradas subversões de pedagogias liberais que se opõem a uma abordagem conteudista ao citar Freire (em especial sua "primeira fase") em defesa de algo semelhante a um currículo de competências (pro mercado e pro estado neoliberal).
+Importante estar atento à forma que alguns autores citam Freire. Na literatura de diferentes disciplinas, incluindo informática, são encontradas subversões de pedagogias liberais que se opõem a uma abordagem conteudista ao citar Freire (em especial sua "primeira fase") em defesa de algo semelhante a um currículo de competências (para preparação de mão-de-obra barata e outros aspectos de interesse do estado neoliberal como smart cities/cidades da vigilância).
 
 Freire, P., 2014. Pedagogia da esperança: um reencontro com a pedagogia do oprimido. Rio de Janeiro: Paz e Terra.
 
