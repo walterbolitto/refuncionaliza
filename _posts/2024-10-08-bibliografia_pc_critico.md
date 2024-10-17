@@ -69,7 +69,7 @@ Freire, P., 2014. Pedagogia da esperança: um reencontro com a pedagogia do opri
 
 Freire, P., 1981. Pedagogia do oprimido. 9. ed. Rio de Janeiro: Paz e Terra.
 
-## Pedagogias pós-freirianas / CTS
+## Pedagogias pós-freireanas / CTS
 
 Muenchen, C. and Delizoicov, D., 2014. Os três momentos pedagógicos e o contexto de produção do livro" Física". Ciência & Educação (Bauru), 20, pp.617-638.
 
