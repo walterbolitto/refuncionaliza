@@ -7,6 +7,8 @@ title: Refuncionaware
 
 ## Organizações
 
+[Comissão Especial de Informática na Educação](https://comissoes.sbc.org.br/ceie/)
+
 [The New Centre](https://thenewcentre.org/)
 
 [Coalizão Direitos na Rede](https://direitosnarede.org.br/)
