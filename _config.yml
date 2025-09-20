@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
 url: https://walterbolitto.github.io/
-baseurl: refuncionalizar
+baseurl: refuncionaliza
 
 # variables
 name: Refuncionalizar
